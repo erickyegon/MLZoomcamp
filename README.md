@@ -16,7 +16,3 @@ The **Machine Learning Zoomcamp** covers the following key topics:
 - Deployment of Machine Learning Models
 - Advanced Machine Learning Techniques
 
-## Repository Structure
-
-The structure of the repository is as follows:
-
