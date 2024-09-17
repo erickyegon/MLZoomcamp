@@ -3,7 +3,7 @@
 This repository contains my work for the **Machine Learning Zoomcamp** course, a free online program designed to teach machine learning engineering over four months.
 
 <p align="center">
-  <img src="https://github.com/DataTalksClub/ml-zoomcamp/blob/main/images/ml-zoomcamp.png" alt="Machine Learning Zoomcamp" width="300"/>
+  <img src="https://github.com/erickyegon/MLZoomcamp/blob/main/zoomcamp.jpg" width="300"/>
 </p>
 
 ## Course Overview
